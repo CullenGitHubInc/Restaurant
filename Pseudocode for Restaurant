@@ -1,9 +1,5 @@
-1.) Start
-
-2.) Print “Chuy’s”
-
-3.) Print “170 S. Orlando Ave”
-
-4.) Print “Winter Park, FL 32789
-
-5.) End
+BEGIN
+    PRINT "Chuy's"
+    PRINT "170 S Orlando Ave"
+    PRINT "Winter Park, FL 32789"
+END
