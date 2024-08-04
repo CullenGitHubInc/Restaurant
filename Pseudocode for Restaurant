@@ -1,5 +1,12 @@
 BEGIN
-    PRINT "Chuy's"
-    PRINT "170 S Orlando Ave"
-    PRINT "Winter Park, FL 32789"
+    // Define the class PrintAddress
+    CLASS PrintAddress {
+        // Define the main method
+        PUBLIC STATIC VOID main(String[] args) {
+            // Print the address line by line
+            SYSTEM.OUT.PRINTLN("Chuy's");
+            SYSTEM.OUT.PRINTLN("170 S Orlando Ave");
+            SYSTEM.OUT.PRINTLN("Winter Park, FL 32789");
+        }
+    }
 END
